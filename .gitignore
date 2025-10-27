@@ -1,0 +1,22 @@
+# PHP
+*.log
+*.cache
+.DS_Store
+Thumbs.db
+
+# Environment
+.env
+.env.local
+config_local.php
+
+# IDE
+.vscode/
+.idea/
+*.sublime-*
+
+# Vercel
+.vercel
+
+# XAMPP specific
+error_log
+php_errors.log
